@@ -54,6 +54,10 @@ Being curious and interested, I've often found myself trying out different uniqu
 <img align="left" alt="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Microsoft SQL Server" width="36px" src="Assets/sql-server.png" />
 <img align="left" alt="MongoDB" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+</div>
+<br />
+<br />
+<div>
 <img align="left" alt="Visual Studio Code" width="36px" src="Assets/vscode.png" />
 <img align="left" alt="Visual Studio" width="36px" src="Assets/visual-studio.png" />
 <img align="left" alt="IntelliJ" width="36px" src="Assets/intellij.png" />
@@ -63,8 +67,6 @@ Being curious and interested, I've often found myself trying out different uniqu
 <img align="left" alt="Terminal" width="36px" src="Assets/terminal.png" />
 <img align="left" alt="Ubuntu" width="36px" src="Assets/ubuntu.png" />
 <img align="left" alt="Linux" width="36px" src="Assets/linux.png" />
-
-
 </div>
 
 

@@ -15,11 +15,17 @@ Being curious and interested, I've often found myself trying out different uniqu
    <img src="https://profile-counter.glitch.me/AliMuhammadAsad/count.svg" align="center"/> 
  </p></div>
 
+ <p align="left">
+  <a href="https://github.com/AliMuhammadAsad">
+    <img src="https://github-stats-alpha.vercel.app/api?username=AliMuhammadAsad&cc=22272e&width=500px&tc=37BCF6&ic=fff&bc=fff">
+  </a>
+ </p>
+
 
 - 📖 Doing Bachelor's in Computer Science from Habib University
 - 😅 Always Sleepy 😴😪💤
-- 🔭 I’m currently working on [Myself](https://www.github.com/AliMuhammadAsad) !!
-- 🌱 I’m currently learning Web Development, and improving my portfolio 🤣
+- 🔭 I’m currently working on [Myself](https://www.github.com/AliMuhammadAsad)!
+- 🌱 I’m currently learning Web Development, and improving my portfolio 🥲
 - 🥅 2023 Goals: Improve my portfolio significantly to land entry-level roles
 
 ### Connect With Me:
@@ -29,6 +35,9 @@ Being curious and interested, I've often found myself trying out different uniqu
 [<img   align="left" alt="Ali | Discord" width="48px" src="discord.png" />][discord]
 [<img   align="left" alt="Ali | Facebook" width="48px" src="facebook.png" />][Facebook]
 [<img   align="left" alt="Ali | Instagram" width="48px" src="instagram.png" />][instagram]
+
+### My Stack: Languages and Tools
+
 
 <!--
 **AliMuhammadAsad/AliMuhammadAsad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

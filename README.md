@@ -24,6 +24,8 @@ Being curious and interested, I've often found myself trying out different uniqu
 
 ### Connect With Me:
 [<img   align="left" alt="Ali | LinkedIn" width="48px" src="linkedin.png" />][linkedin]
+[<img   align="left" alt="Ali | GMail" width="48px" src="gmail.png" />][Gmail]
+[<img   align="left" alt="Ali | Outlook" width="48px" src="outlook.png" />][Outlook]
 [<img   align="left" alt="Ali | Discord" width="48px" src="discord.png" />][discord]
 [<img   align="left" alt="Ali | Facebook" width="48px" src="facebook.png" />][Facebook]
 [<img   align="left" alt="Ali | Instagram" width="48px" src="instagram.png" />][instagram]
@@ -52,3 +54,6 @@ Here are some ideas to get you started:
 [Instagram]:https://www.instagram.com/aliimuhammadasad/
 [facebook]:https://www.facebook.com/alimuhammad73420
 [discord]:https://discord.com/users/nightwing6973
+[gmail]:mailto:alimuhammadasadlm10@gmail.com
+[outlook]:mailto:aa07190@st.habib.edu.pk
+

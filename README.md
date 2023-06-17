@@ -1,4 +1,4 @@
-# Hi there, I'm Ali Muhammad Asad👋
+# Hi there, I'm Ali Muhammad👋
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -42,6 +42,7 @@ Being curious and interested, I've often found myself trying out different uniqu
 ## My Stack; Languages and Tools
 
 ### Languages:
+
 <div>
 <img align="left" alt="Canva" width="36px" src="Assets/canva.png">
 <img align="left" alt="Python" width="36px" src="Assets/python.png" />
@@ -50,24 +51,26 @@ Being curious and interested, I've often found myself trying out different uniqu
 <img align="left" alt="C#" width="36px" src="Assets/c-sharp.png" />
 <img align="left" alt="Java" width="36px" src="Assets/java.png" />
 <img align="left" alt="LaTeX" width="36px" src="Assets/tex.png" />
-<img align="left" alt="RISC-V" width="36px" src="Assets/RISC-V-logo-square.svg" />
 <img align="left" alt="SQL" width="36px" src="Assets/database.png" />
 <img align="left" alt="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Microsoft SQL Server" width="36px" src="Assets/sql-server.png" />
 <img align="left" alt="MongoDB" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 </div>
+<img align="left" alt="RISC-V" width="36px" src="Assets/RISC-V-logo-square.svg" />
 
-<br />
-<br />
+![Verilog](https://img.shields.io/badge/-Verilog-orange?style=flat&logo=verilog&logoColor=white)
+![VHDL](https://img.shields.io/badge/-VHDL-green?style=flat&logo=VHDL&logoColor=white)
+![RISC-V](https://img.shields.io/badge/-RISC-purple?style=flat&logo=RISC&logoColor=white)
 
-### Applications, Data and Utilities:
+
+
+### Applications, Data, and Utilities:
 <div>
 <img align="left" alt="Visual Studio Code" width="36px" src="Assets/vscode.png" />
 <img align="left" alt="Visual Studio" width="36px" src="Assets/visual-studio.png" />
 <img align="left" alt="IntelliJ" width="36px" src="Assets/intellij.png" />
 </div>
 
-<br/>
 <br/>
 
 ### Version Control / DevOps:
@@ -77,7 +80,6 @@ Being curious and interested, I've often found myself trying out different uniqu
 <img align="left" alt="GitHub Desktop" width="36px" src="Assets/Github-desktop-logo-symbol.svg" />
 </div>
 
-<br/>
 <br/>
 
 ### Terminal and OS:

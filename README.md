@@ -40,35 +40,71 @@ Being curious and interested, I've often found myself trying out different uniqu
 <br/>
 
 ## My Stack; Languages and Tools
+
+### Languages:
 <div>
 <img align="left" alt="Canva" width="36px" src="Assets/canva.png">
 <img align="left" alt="Python" width="36px" src="Assets/python.png" />
-<img align="left" alt="PyGame" width="48px" src="Assets/pygame-head-party.png" />
+<img align="left" alt="PyGame" width="44px" src="Assets/pygame-head-party.png" />
 <img align="left" alt="C++" width="36px" src="Assets/c%2B%2B.png" />
 <img align="left" alt="C#" width="36px" src="Assets/c-sharp.png" />
 <img align="left" alt="Java" width="36px" src="Assets/java.png" />
 <img align="left" alt="LaTeX" width="36px" src="Assets/tex.png" />
-<img align="left" alt="RISC-V" width="48px" src="Assets/RISC-V-logo-square.svg" />
-
+<img align="left" alt="RISC-V" width="36px" src="Assets/RISC-V-logo-square.svg" />
 <img align="left" alt="SQL" width="36px" src="Assets/database.png" />
 <img align="left" alt="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Microsoft SQL Server" width="36px" src="Assets/sql-server.png" />
 <img align="left" alt="MongoDB" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 </div>
+
 <br />
 <br />
+
+### Applications, Data and Utilities:
 <div>
 <img align="left" alt="Visual Studio Code" width="36px" src="Assets/vscode.png" />
 <img align="left" alt="Visual Studio" width="36px" src="Assets/visual-studio.png" />
 <img align="left" alt="IntelliJ" width="36px" src="Assets/intellij.png" />
+</div>
+
+<br/>
+<br/>
+
+### Version Control / DevOps:
+<div>
 <img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Github" width="36px" src="Assets/github-mark-white.png" />
 <img align="left" alt="GitHub Desktop" width="36px" src="Assets/Github-desktop-logo-symbol.svg" />
+</div>
+
+<br/>
+<br/>
+
+### Terminal and OS:
+<div>
 <img align="left" alt="Terminal" width="36px" src="Assets/terminal.png" />
 <img align="left" alt="Ubuntu" width="36px" src="Assets/ubuntu.png" />
 <img align="left" alt="Linux" width="36px" src="Assets/linux.png" />
 </div>
 
+<br/>
+<br/>
+
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliMuhammadAsad&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliMuhammadAsad&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AliMuhammadAsad&theme=dracula)
+
+<br>
+
+<div align="left">
+  <h3>Contribution<h3>
+  <img src="Assets/github-user-contribution.svg" width=100% />
+</div>
 
 
 <!--

@@ -23,6 +23,10 @@ Being curious and interested, I've often found myself trying out different uniqu
 - 🥅 2023 Goals: Improve my portfolio significantly to land entry-level roles
 
 ### Connect With Me:
+[<img   align="left" alt="Ali | LinkedIn" width="48px" src="linkedin.png" />][linkedin]
+[<img   align="left" alt="Ali | Discord" width="48px" src="discord.png" />][discord]
+[<img   align="left" alt="Ali | Facebook" width="48px" src="facebook.png" />][Facebook]
+[<img   align="left" alt="Ali | Instagram" width="48px" src="instagram.png" />][instagram]
 
 <!--
 **AliMuhammadAsad/AliMuhammadAsad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,3 +47,8 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 -->
+
+[Linkedin]:https://www.linkedin.com/in/ali-muhammad-asad/
+[Instagram]:https://www.instagram.com/aliimuhammadasad/
+[facebook]:https://www.facebook.com/alimuhammad73420
+[discord]:https://discord.com/users/nightwing6973

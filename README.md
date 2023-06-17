@@ -40,7 +40,7 @@ Being curious and interested, I've often found myself trying out different uniqu
 <br/>
 
 ## My Stack; Languages and Tools
-<div>
+<!-- <div> -->
 <img align="left" alt="" width="36px" src="Assets/python.png" />
 <img align="left" alt="C++" width="36px" src="Assets/c%2B%2B.png" />
 <img align="left" alt="Java" width="36px" src="Assets/java.png" />
@@ -48,7 +48,7 @@ Being curious and interested, I've often found myself trying out different uniqu
 ![Verilog](https://img.shields.io/badge/-Verilog-orange?style=flat&logo=verilog&logoColor=white)
 ![VHDL](https://img.shields.io/badge/-VHDL-green?style=flat&logo=VHDL&logoColor=white)
 <img align="left" alt="RISC-V" width="48px" src="Assets/RISC-V-logo-square.svg" />
-</div>
+<!-- </div> -->
 
 
 

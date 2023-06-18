@@ -44,7 +44,6 @@ Being curious and interested, I've often found myself trying out different uniqu
 ### Languages:
 
 <div>
-<img align="left" alt="Canva" width="36px" src="Assets/canva.png">
 <img align="left" alt="Python" width="36px" src="Assets/python.png" />
 <img align="left" alt="PyGame" width="44px" src="Assets/pygame-head-party.png" />
 <img align="left" alt="C++" width="36px" src="Assets/c%2B%2B.png" />
@@ -66,6 +65,7 @@ Being curious and interested, I've often found myself trying out different uniqu
 
 ### Applications, Data, and Utilities:
 <div>
+<img align="left" alt="Canva" width="36px" src="Assets/canva.png">
 <img align="left" alt="Visual Studio Code" width="36px" src="Assets/vscode.png" />
 <img align="left" alt="Visual Studio" width="36px" src="Assets/visual-studio.png" />
 <img align="left" alt="IntelliJ" width="36px" src="Assets/intellij.png" />

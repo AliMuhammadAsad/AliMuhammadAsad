@@ -8,12 +8,7 @@ Hi, I'm Ali Muhammad Asad, a Junior(third-year student) at **Habib University**
 
 Being curious and interested, I've often found myself trying out different unique things, and solving puzzles and problems. Recently, I got hired as an Undergraduate Research Assistant under the supervision of a faculty member at my university, I'm also a part of the table tennis team and have represented my university on various occasions, and have been a Teacher's Assistant for various courses as well. Apart from the university, I also teach tuition privately, watch movies, shows, and anime, read books, and games excessively especially Minecraft and Rocket League, been teaching myself the piano and learning the violin. <img src="Assets/minecraft-1-logo-png-transparent.png" width = 18px> <img src="Assets/rocketleague.png" width = 22px> <img src="Assets/piano.png" width=22px> <img src="Assets/violin.png" width=22px> <img src="Assets/ping-pong.png" width=20px>
 
-<div align='left'>
-<p align="left"> 
-   Visitor count:
-  
-   <img src="https://profile-counter.glitch.me/AliMuhammadAsad/count.svg" align="center"/> 
- </p></div>
+
 
  <p align="left">
   <a href="https://github.com/AliMuhammadAsad">

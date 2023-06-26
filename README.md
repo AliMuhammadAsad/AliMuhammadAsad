@@ -24,9 +24,10 @@ Being curious and interested, I've often found myself trying out different uniqu
 <br>
 My Github Stats
 
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliMuhammadAsad&theme=dracula)  -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliMuhammadAsad&theme=github_dark) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliMuhammadAsad&theme=vision_friendly_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliMuhammadAsad&theme=github_dark)
+<!-- vision_friendly_dark  -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AliMuhammadAsad&theme=github_dark)
 
 <br>

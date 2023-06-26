@@ -91,18 +91,18 @@ Being curious and interested, I've often found myself trying out different uniqu
 <br/>
 <br/>
 
-<!--
+
 <summary>📈 Stats</summary>
 <br>
 My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliMuhammadAsad&theme=dracula) 
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliMuhammadAsad&theme=dracula)  -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliMuhammadAsad&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AliMuhammadAsad&theme=dracula)
 
 <br>
--->
+
 <div align="left">
   <h3>Contribution<h3>
   <img src="Assets/github-user-contribution.svg" width=100% />

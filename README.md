@@ -58,7 +58,7 @@ My Github Stats
 <img align="left" alt="CSS3" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"/> 
 <img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript.svg" />
 <img align="left" alt="Python" width="36px" src="Assets/python.png" />
-<img align="left" alt="PyGame" width="44px" src="Assets/pygame-head-party.png" />
+<img align="left" alt="PyGame" width="36px" src="Assets/pygame-head-party.png" />
 <img align="left" alt="C++" width="36px" src="Assets/c%2B%2B.png" />
 <img align="left" alt="C#" width="36px" src="Assets/c-sharp.png" />
 <img align="left" alt="Java" width="36px" src="Assets/java.png" />

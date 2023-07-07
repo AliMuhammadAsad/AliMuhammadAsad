@@ -48,7 +48,6 @@ My Github Stats
 
 <br/>
 <br/>
-<br/>
 
 ## My Stack; Languages and Tools
 
@@ -65,6 +64,7 @@ My Github Stats
 <img align="left" alt="Java" width="36px" src="Assets/java.png" />
 <img align="left" alt="LaTeX" width="36px" src="Assets/tex.png" />
 </div>
+<br>
 <br>
 <br>
 <div>

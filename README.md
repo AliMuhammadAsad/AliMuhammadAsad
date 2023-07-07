@@ -88,7 +88,7 @@ My Github Stats
 <img align="left" alt="Visual Studio" width="36px" src="Assets/visual-studio.png" />
 <img align="left" alt="IntelliJ" width="36px" src="Assets/intellij.png" />
 <img align="left" alt="Microsoft SQL Server" width="36px" src="Assets/sql-server.png" />
-<img align="left" alt="Neo4j" width="36px" src="Assets/neo4j_svgs/Neo4j-logo-color.svg"/>
+<img align="left" alt="Neo4j" width="36px" src="Assets/neo4j_svgs/Neo4j-logo-white.svg"/>
 </div>
 
 <br/>

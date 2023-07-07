@@ -70,15 +70,15 @@ My Github Stats
 <div>
 <img align="left" alt="SQL" width="36px" src="Assets/database.png" />
 <img align="left" alt="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Microsoft SQL Server" width="36px" src="Assets/sql-server.png" />
 <img align="left" alt="MongoDB" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-</div>
+<img align="left" alt="CyherQuery" width="36px" src="Assets/neo4j_svgs/neo4j-icon-white.svg" />
 <img align="left" alt="RISC-V" width="36px" src="Assets/RISC-V-logo-square.svg" />
+
 
 ![Verilog](https://img.shields.io/badge/-Verilog-orange?style=flat&logo=verilog&logoColor=white)
 ![VHDL](https://img.shields.io/badge/-VHDL-green?style=flat&logo=VHDL&logoColor=white)
 ![RISC-V](https://img.shields.io/badge/-RISC-purple?style=flat&logo=RISC&logoColor=white)
-
+</div>
 
 
 ### Applications, Data, and Utilities:
@@ -87,6 +87,8 @@ My Github Stats
 <img align="left" alt="Visual Studio Code" width="36px" src="Assets/vscode.png" />
 <img align="left" alt="Visual Studio" width="36px" src="Assets/visual-studio.png" />
 <img align="left" alt="IntelliJ" width="36px" src="Assets/intellij.png" />
+<img align="left" alt="Microsoft SQL Server" width="36px" src="Assets/sql-server.png" />
+<img align="left" alt="Neo4j" width="36px" src="Assets/neo4j_svgs/Neo4j-logo-color.svg"/>
 </div>
 
 <br/>

@@ -39,12 +39,14 @@ My Github Stats
 - 🥅 2023 Goals: Improve my portfolio significantly to land entry-level roles
 
 ## Connect With Me:
-[<img   align="left" alt="Ali | LinkedIn" width="48px" src="Assets/linkedin.png" />][linkedin]
-[<img   align="left" alt="Ali | GMail" width="48px" src="Assets/gmail.png" />][Gmail]
-[<img   align="left" alt="Ali | Outlook" width="48px" src="Assets/outlook.png" />][Outlook]
-[<img   align="left" alt="Ali | Discord" width="48px" src="Assets/discord.png" />][discord]
-[<img   align="left" alt="Ali | Facebook" width="48px" src="Assets/facebook.png" />][Facebook]
-[<img   align="left" alt="Ali | Instagram" width="48px" src="Assets/instagram.png" />][instagram]
+<div>
+[<img align="left" alt="Ali | LinkedIn" width="48px" src="Assets/linkedin.png" />][linkedin]
+[<img align="left" alt="Ali | GMail" width="48px" src="Assets/gmail.png" />][Gmail]
+[<img align="left" alt="Ali | Outlook" width="48px" src="Assets/outlook.png" />][Outlook]
+[<img align="left" alt="Ali | Discord" width="48px" src="Assets/discord.png" />][discord]
+[<img align="left" alt="Ali | Facebook" width="48px" src="Assets/facebook.png" />][Facebook]
+[<img align="left" alt="Ali | Instagram" width="48px" src="Assets/instagram.png" />][instagram]
+</div>
 
 <br/>
 <br/>
@@ -87,7 +89,7 @@ My Github Stats
 <img align="left" alt="Visual Studio Code" width="36px" src="Assets/vscode.png" />
 <img align="left" alt="Visual Studio" width="36px" src="Assets/visual-studio.png" />
 <img align="left" alt="IntelliJ" width="36px" src="Assets/intellij.png" />
-<img align="left" alt="Microsoft SQL Server" width="36px" src="Assets/sql-server.png" />
+<img align="left" alt="Microsoft SQL Server" width="36px" src="Assets/microsoft-sql-server4529.jpg" />
 <img align="left" alt="Neo4j" width="36px" src="Assets/neo4j_svgs/Neo4j-logo-white.svg"/>
 </div>
 

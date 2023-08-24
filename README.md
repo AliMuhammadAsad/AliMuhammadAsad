@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## I'm an Undergraduate Research Assistant, Aspiring Coder and Developer, Gamer, and Teacher!
+## I'm an Undergraduate Research Assistant, Aspiring Coder and Developer, Gamer, and a Teacher!
 --------------------------------------------------------
 Hi, I'm Ali Muhammad Asad, a Junior(third-year student) at **Habib University**
 
@@ -72,8 +72,8 @@ My Github Stats
 <img align="left" alt="SQL" width="36px" src="Assets/database.png" />
 <img align="left" alt="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="CyherQuery" width="35px" src="Assets/neo4j_svgs/neo4j-icon-colored.svg" style="background-color:white;" />
-<img align="left" alt="RISC-V" width="36px" src="Assets/RISC-V-logo-square.svg" style="background-color:white;padding:3px" />
+<img align="left" alt="CyherQuery" width="35px" src="Assets/neo4j_svgs/neo4j-icon-colored.svg" style="background:white;" />
+<img align="left" alt="RISC-V" width="36px" src="Assets/RISC-V-logo-square.svg" style="background:white;padding:3px" />
 
 
 ![Verilog](https://img.shields.io/badge/-Verilog-orange?style=flat&logo=verilog&logoColor=white)
@@ -89,7 +89,7 @@ My Github Stats
 <img align="left" alt="Visual Studio" width="36px" src="Assets/visual-studio.png" />
 <img align="left" alt="IntelliJ" width="36px" src="Assets/intellij.png" />
 <img align="left" alt="Microsoft SQL Server" width="40px" src="Assets/microsoft-sql-server4529.jpg" />
-<img align="left" alt="Neo4j" width="36px" src="Assets/neo4j_svgs/Neo4j-logo-color.svg" style="background-color:white;padding:9px"/>
+<img align="left" alt="Neo4j" width="36px" src="Assets/neo4j_svgs/Neo4j-logo-color.svg" style="background:white;padding:9px"/>
 </div>
 
 <br/>

@@ -55,15 +55,16 @@ My Github Stats
 ### Languages:
 
 <div>
-<img align="left" alt="HTML5" width="24px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.svg"/>
-<img align="left" alt="CSS3" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"/> 
-<img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript.svg" />
+<img align="left" alt="LaTeX" width="36px" src="Assets/tex.png" />
 <img align="left" alt="Python" width="36px" src="Assets/python.png" />
 <img align="left" alt="PyGame" width="36px" src="Assets/pygame-head-party.png" />
+<img align="left" alt="C" width="36px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c.svg" />
 <img align="left" alt="C++" width="36px" src="Assets/c%2B%2B.png" />
 <img align="left" alt="C#" width="36px" src="Assets/c-sharp.png" />
 <img align="left" alt="Java" width="36px" src="Assets/java.png" />
-<img align="left" alt="LaTeX" width="36px" src="Assets/tex.png" />
+<img align="left" alt="HTML5" width="24px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.svg"/>
+<img align="left" alt="CSS3" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"/> 
+<img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript.svg" />
 </div>
 <br>
 <br>
@@ -72,7 +73,7 @@ My Github Stats
 <img align="left" alt="SQL" width="36px" src="Assets/database.png" />
 <img align="left" alt="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="CyherQuery" width="35px" src="Assets/neo4j_svgs/neo4j-icon-white.svg" />
+<img align="left" alt="CypherQuery" width="35px" src="Assets/neo4j_svgs/neo4j-icon-white.svg" />
 <img align="left" alt="RISC-V" width="36px" src="Assets/RISC-V-logo-square.svg" />
 
 
@@ -147,4 +148,3 @@ Here are some ideas to get you started:
 [discord]:https://discord.com/users/nightwing6973
 [gmail]:mailto:alimuhammadasadlm10@gmail.com
 [outlook]:mailto:aa07190@st.habib.edu.pk
-

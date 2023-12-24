@@ -92,8 +92,11 @@ My Github Stats
 <img align="left" alt="IntelliJ" width="36px" src="Assets/intellij.png" />
 <img align="left" alt="Microsoft SQL Server" width="40px" src="Assets/microsoft-sql-server4529.jpg" />
 <img align="left" alt="Neo4j" width="36px" src="Assets/neo4j_svgs/Neo4j-logo-white.svg"/>
+<img align="left" alt="Matlab" width="36px" src="Assets/matlab.png" />
+<img align="left" alt="Simulink" width="36px" src="Assets/simulink.png" />
 <img align="left" alt="Gazebo" width="36px" src="Assets/gazebo.png" />
 </div>
+<!-- <img align="left" alt="" width="36px" src="" /> -->
 
 <br/>
 

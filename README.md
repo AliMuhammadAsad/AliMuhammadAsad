@@ -92,7 +92,7 @@ My Github Stats
 <img align="left" alt="IntelliJ" width="36px" src="Assets/intellij.png" />
 <img align="left" alt="Microsoft SQL Server" width="40px" src="Assets/microsoft-sql-server4529.jpg" />
 <img align="left" alt="Neo4j" width="36px" src="Assets/neo4j_svgs/Neo4j-logo-white.svg"/>
-<img align="left" alt="Gazebo" widht="36px" src="Assets/gazebo.png" />
+<img align="left" alt="Gazebo" widht="2px" src="Assets/gazebo.png" />
 </div>
 
 <br/>

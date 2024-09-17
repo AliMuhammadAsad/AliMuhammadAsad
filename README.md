@@ -4,9 +4,20 @@
 
 ## I'm an Undergraduate Research Assistant, Aspiring Coder and Developer, Gamer, and a Teacher!
 --------------------------------------------------------
-Hi, I'm Ali Muhammad Asad, a Junior(third-year student) at **Habib University**
+Hi, I'm Ali Muhammad Asad, a Senior at **Habib University**
 
-Being curious and interested, I've often found myself trying out different unique things, and solving puzzles and problems. Recently, I got hired as an Undergraduate Research Assistant under the supervision of a faculty member at my university, I'm also a part of the table tennis team and have represented my university on various occasions, and have been a Teacher's Assistant for various courses as well. Apart from the university, I also teach tuition privately, watch movies, shows, and anime, read books, and games excessively especially Minecraft and Rocket League, been teaching myself the piano and learning the violin. <img src="Assets/minecraft-1-logo-png-transparent.png" width = 18px> <img src="Assets/rocketleague.png" width = 22px> <img src="Assets/piano.png" width=22px> <img src="Assets/violin.png" width=22px> <img src="Assets/ping-pong.png" width=20px>
+Being curious and interested, I've often found myself trying out different unique things, and solving puzzles and problems. I've been hired as an Undergraduate Research Assistant under the supervision of a faculty member at my university, and also have gotten the opportunity to lead an independent research project on Graph Database Technologies. I've also been a Teacher's Assistant for various courses as well including:
+- Algorithmic Problem Solving (PFun)
+- Data Structures and Algorithms
+- Discrete Mathematics
+- Calculus II
+- Object Oriented Programming
+- Data Structures II
+- Graph Data Sciences
+- Competitive Programming (time short lived)
+- Nature of Computation (Theory of Automata)
+
+Apart from the university, I also teach tuition privately, watch movies, shows, and anime, read books, and games excessively especially Minecraft and Rocket League, been teaching myself the piano and learning the violin. <img src="Assets/minecraft-1-logo-png-transparent.png" width = 18px> <img src="Assets/rocketleague.png" width = 22px> <img src="Assets/piano.png" width=22px> <img src="Assets/violin.png" width=22px> <img src="Assets/ping-pong.png" width=20px>
 
 <div align='left'>
 <p align="left"> 
@@ -62,7 +73,7 @@ My Github Stats
 <img align="left" alt="C" width="36px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c.svg" />
 <img align="left" alt="C++" width="36px" src="Assets/c%2B%2B.png" />
 <img align="left" alt="C#" width="36px" src="Assets/c-sharp.png" />
-<img align="left" alt="Java" width="36px" src="Assets/java.png" />
+<!-- <img align="left" alt="Java" width="36px" src="Assets/java.png" /> -->
 <img align="left" alt="HTML5" width="24px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.svg"/>
 <img align="left" alt="CSS3" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"/> 
 <img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript.svg" />
@@ -89,7 +100,7 @@ My Github Stats
 <img align="left" alt="Canva" width="36px" src="Assets/canva.png">
 <img align="left" alt="Visual Studio Code" width="36px" src="Assets/vscode.png" />
 <img align="left" alt="Visual Studio" width="36px" src="Assets/visual-studio.png" />
-<img align="left" alt="IntelliJ" width="36px" src="Assets/intellij.png" />
+<!-- <img align="left" alt="IntelliJ" width="36px" src="Assets/intellij.png" /> -->
 <img align="left" alt="Microsoft SQL Server" width="40px" src="Assets/microsoft-sql-server4529.jpg" />
 <img align="left" alt="Neo4j" width="36px" src="Assets/neo4j_svgs/Neo4j-logo-white.svg"/>
 <img align="left" alt="Matlab" width="36px" src="Assets/matlab.png" />

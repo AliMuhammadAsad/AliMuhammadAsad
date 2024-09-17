@@ -45,10 +45,11 @@ My Github Stats
 
 
 - 📖 Doing Bachelor's in Computer Science from Habib University
+- 💼 Former Data Science Intern at 10Pearls
 - 😅 Always Sleepy 😴😪💤
 - 🔭 I’m currently working on [Myself](https://www.github.com/AliMuhammadAsad)!
-- 🌱 I’m currently learning Web Development, and improving my portfolio 🥲
-- 🥅 2023 Goals: Improve my portfolio significantly to land entry-level roles
+- 🌱 I’m currently engaged in Machine Learning, Deep Learning, Large Language Models 🥲
+- 🥅 2024-2025 Goals: Complete my FYP successfully 
 
 ## Connect With Me:
 

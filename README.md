@@ -9,13 +9,16 @@ Hi, I'm Ali Muhammad Asad, a Senior at **Habib University**
 Being curious and interested, I've often found myself trying out different unique things, and solving puzzles and problems. I've been hired as an Undergraduate Research Assistant under the supervision of a faculty member at my university, and also have gotten the opportunity to lead an independent research project on Graph Database Technologies. I've also been a Teacher's Assistant for various courses as well including:
 - Algorithmic Problem Solving (PFun)
 - Data Structures and Algorithms
-- Discrete Mathematics
+- Discrete Mathematics (Thrice)
 - Calculus II
 - Object Oriented Programming
 - Data Structures II
 - Graph Data Sciences
 - Competitive Programming (time short lived)
 - Nature of Computation (Theory of Automata)
+- Algorithms: Design and Analysis
+
+(12 TAships and 3 other employments from Habib, 15 employments in total xD)
 
 Apart from the university, I also teach tuition privately, watch movies, shows, and anime, read books, and games excessively especially Minecraft and Rocket League, been teaching myself the piano and learning the violin. <img src="Assets/minecraft-1-logo-png-transparent.png" width = 18px> <img src="Assets/rocketleague.png" width = 22px> <img src="Assets/piano.png" width=22px> <img src="Assets/violin.png" width=22px> <img src="Assets/ping-pong.png" width=20px>
 
@@ -45,11 +48,11 @@ My Github Stats
 
 
 - 📖 Doing Bachelor's in Computer Science from Habib University
-- 💼 Former Data Science Intern at 10Pearls
+- 💼 Former Data Science Intern at 10Pearls, doing another internship hopefully leading to a job
 - 😅 Always Sleepy 😴😪💤
-- 🔭 I’m currently working on [Myself](https://www.github.com/AliMuhammadAsad)!
+- 🔭 I’m currently working on [Myself](https://www.github.com/AliMuhammadAsad), and exploring Amazon Web Services and Cloud Development
 - 🌱 I’m currently engaged in Machine Learning, Deep Learning, Large Language Models 🥲
-- 🥅 2024-2025 Goals: Complete my FYP successfully 
+- 🥅 2024-2025 Goals: Complete my FYP successfully - My FYP is basically developing a Large Language Model (LLM) from scratch for specific contexts (can't disclose xD)
 
 ## Connect With Me:
 

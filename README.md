@@ -8,7 +8,7 @@ Hi, I'm Ali Muhammad Asad.
 
 I am a **Computer Science Graduate from Habib University** with a passion for building intelligent systems and automating complex workflows. My journey has taken me from academic research to optimizing enterprise processes.
 
-Currently, I work as an **Assistant Manager - Process Automations** at **Alkaram Studio**, where I leverage full-stack technologies and AI to streamline operations. Previously, I enhanced academic retrieval systems using Chatbots and Analysis tools as an MT at **Habib University (Office of Institutional Research)**.
+Currently, I work as a **Data Associate** at **Habib University** in the **COO's Office**, where I leverage the institution's data to drive strategic decision-making and operational efficiency. I've also worked as an **Assistant Manager - Process Automations** at **Alkaram Studio**, where I leveraged full-stack technologies and AI to streamline operations. Previously, I enhanced academic retrieval systems using Chatbots and Analysis tools as an MT at **Habib University (Office of Institutional Research)**.
 
 I am deeply invested in **Agentic RAG**, **Machine Learning**, and **Cloud Native Development**, constantly pushing the boundaries of what automated systems can achieve.
 
@@ -41,9 +41,15 @@ My Github Stats
 
 ## 💼 Experience & Impact
 
+**Habib University (COO's Office)** | *Data Associate*
+- Spearheading data-driven initiatives to optimize university operations and strategic planning.
+- Developing dashboards and reports to provide actionable insights for the COO and executive team.
+- Collaborating with cross-functional teams to implement data solutions that enhance decision-making and operational efficiency.
+
 **Alkaram Studio** | *Assistant Manager - Process Automations*
 - Driving digital transformation by building full-stack web applications and automating workflows using.
 - Implementing data analysis pipelines and optimizing business processes.
+- Built a full-stack web application for image generation, where an AI agent generates images based on user prompts, and reference images of garment designs, backgrounds, and models. The application is capable of generating high-quality images for marketing and design purposes, along with editing and modifying the pose, background, style, and text on the images, significantly reducing the time and effort required for content creation.
 
 **Habib University** | *Management Trainee (OIR)*
 - Lead the development of a multi-agent RAG Agent for academic data, including course and instructor evaluations, teacher profiles, course learning outcomes, and course grades - offering faster insights, and improved analytics for academic improvement.

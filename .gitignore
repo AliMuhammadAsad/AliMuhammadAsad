@@ -1,0 +1,4 @@
+# ignore all directories that start with "Resume"
+
+Resume_*/
+Amazing_Ali.md
